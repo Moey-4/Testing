@@ -1,0 +1,14 @@
+player_manager.AddValidModel( "Sith Apprentice Male", "models/apprentice/pm_sith_apprentice_human_male.mdl" );
+list.Set( "PlayerOptionsModel",  "Sith Apprentice Male", "models/apprentice/pm_sith_apprentice_human_male.mdl" );
+player_manager.AddValidModel( "Sith Disciple Male", "models/disciple/pm_sith_disciple_human_male.mdl" );
+list.Set( "PlayerOptionsModel",  "Sith Disciple Male", "models/disciple/pm_sith_disciple_human_male.mdl" );
+player_manager.AddValidModel( "Sith Hunter Male", "models/hunter/pm_sith_hunter_human_male.mdl" );
+list.Set( "PlayerOptionsModel",  "Sith Hunter Male", "models/hunter/pm_sith_hunter_human_male.mdl" );
+player_manager.AddValidModel( "Sith Marauder Male", "models/marauder/pm_sith_marauder_human_male.mdl" );
+list.Set( "PlayerOptionsModel",  "Sith Marauder Male", "models/marauder/pm_sith_marauder_human_male.mdl" );
+player_manager.AddValidModel( "Sith Reaper Male", "models/reaper/pm_sith_reaper_human_male.mdl" );
+list.Set( "PlayerOptionsModel",  "Sith Reaper Male", "models/reaper/pm_sith_reaper_human_male.mdl" );
+player_manager.AddValidModel( "Sith Seer Male", "models/seer/pm_sith_seer_human_male.mdl" );
+list.Set( "PlayerOptionsModel",  "Sith Seer Male", "models/seer/pm_sith_seer_human_male.mdl" );
+player_manager.AddValidModel( "Sith Shrouded Male", "models/shrouded/pm_sith_shrouded_human_male.mdl" );
+list.Set( "PlayerOptionsModel",  "Sith Shrouded Male", "models/shrouded/pm_sith_shrouded_human_male.mdl" );

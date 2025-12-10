@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/yeetcat/pykes/head"
+	"$bumpmap" "models/yeetcat/pykes/headbump"
+
+		
+	$phong 1
+    	$phongfresnelranges "[1 1 1]"
+	$phongboost	"15"
+	$phongalbedotint 1
+	$halflambert 1 
+	$nocull 1
+
+
+				
+}

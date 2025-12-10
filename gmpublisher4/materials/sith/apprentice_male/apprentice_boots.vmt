@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$baseTexture "sith/apprentice/apprentice_boots"
+	$surfaceprop flash
+	$halflambert 1
+              "$nocull" "1"
+}

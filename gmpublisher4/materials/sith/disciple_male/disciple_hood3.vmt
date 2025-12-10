@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$baseTexture "sith/disciple/disciple_hood3"
+	$surfaceprop flash
+	$halflambert 1
+              "$nocull" "1"
+}

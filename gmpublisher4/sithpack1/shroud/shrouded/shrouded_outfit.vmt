@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$baseTexture "sith/shrouded/shrouded_outfit"
+	$surfaceprop flash
+	$halflambert 1
+              "$nocull" "1"
+}

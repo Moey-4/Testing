@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$baseTexture "sith/hunter/hunter_boots2"
+	$surfaceprop flash
+	$halflambert 1
+              "$nocull" "1"
+                $selfillum 1
+                $selfillummask "sith/hunter/hunter_boots2_glow"
+}

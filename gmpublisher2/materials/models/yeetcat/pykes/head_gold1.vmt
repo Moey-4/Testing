@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/yeetcat/pykes/head_gold1"
+
+ 	"$envmap" "models/yeetcat/pykes/goldmat"
+	$envmapmask "models/yeetcat/pykes/headmatgold"
+
+
+
+	"$envmaptint" "[.175 .175 .175]" 
+
+	"$rimlight" "1"
+	"$rimlightexponent" "50"
+	"$rimlightboost" "5"
+}
+
+

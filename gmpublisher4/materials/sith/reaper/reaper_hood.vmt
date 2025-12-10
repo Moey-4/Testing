@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$baseTexture "sith/reaper/reaper_hood"
+	$surfaceprop flash
+	$halflambert 1
+              "$nocull" "1"
+                $selfillum 1
+                $selfillummask "sith/reaper/reaper_hood_glow"
+}

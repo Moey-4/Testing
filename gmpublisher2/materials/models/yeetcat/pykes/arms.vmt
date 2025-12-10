@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/yeetcat/pykes/underwear"
+	"$bumpmap" "models/yeetcat/pykes/underwearbump"
+	$phong 1
+    	$phongfresnelranges "[.005 .005 .005]"
+	$phongexponenttexture "models/yeetcat/pykes/underwearbump"
+	$phongboost	"15"
+	$phongalbedotint 1
+	$halflambert 1 
+	$nocull 1
+
+
+
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/reizer_models/star_wars/mandalorian/mandalorian_06/armor_body2"
+	"$bumpmap" "models/reizer_models/star_wars/mandalorian/mandalorian_06/armor_body2_nm"
+
+	"$model" "1"
+	"$halflambert" "1"
+	"$nocull" "1"
+}

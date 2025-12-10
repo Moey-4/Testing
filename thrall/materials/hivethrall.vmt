@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/thrallmodel/hivethrall"
+	"$bumpmap" "models/thrallmodel/hivethrall_normal"
+	"$phong" "1"
+}

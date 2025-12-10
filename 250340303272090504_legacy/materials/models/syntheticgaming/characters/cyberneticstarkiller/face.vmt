@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/syntheticgaming/Characters/cyberneticstarkiller/face"
+    	 "$bumpmap" "models/syntheticgaming/Characters/cyberneticstarkiller/face_n"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "5"									
+	"$phongfresnelranges"	"[.2 .6  1]"
+   	 "$halflambert" 1
+	"$nocull" 1
+}
