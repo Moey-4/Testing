@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jalmaries/harlem/harlemPM_00"
+    $halflambert    1
+}
