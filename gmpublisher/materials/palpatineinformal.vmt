@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "player/guac/palpatine/palpatineinformal"
+	$nocull 1
+}
