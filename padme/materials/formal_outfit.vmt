@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$baseTexture "padme_formal/formal_outfit"
+	$surfaceprop flash
+	$halflambert 1
+              "$nocull" "1"
+}

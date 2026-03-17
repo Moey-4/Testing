@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+               "$basetexture" "padme_formal/braid"
+	$surfaceprop flash
+	$halflambert 1
+
+	"$PhongBrightnessScalar" "0.5" // see below. "0.5" will get overwritten.
+		"$nocull" "1"
+}
+
