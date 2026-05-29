@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	$baseTexture "sith/hunter/hunter_gloves"
-	$surfaceprop flash
-	$halflambert 1
-              "$nocull" "1"
-}

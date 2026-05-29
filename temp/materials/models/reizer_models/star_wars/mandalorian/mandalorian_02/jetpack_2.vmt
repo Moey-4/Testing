@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/reizer_models/star_wars/mandalorian/mandalorian_02/jetpack"
-	"$bumpmap" "models/reizer_models/star_wars/mandalorian/shared/jetpack_nm"
-
-	"$model" "1"
-	"$halflambert" "1"
-	"$nocull" "1"
-}

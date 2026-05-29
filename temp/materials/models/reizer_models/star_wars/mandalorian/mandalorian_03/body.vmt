@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/reizer_models/star_wars/mandalorian/mandalorian_03/body"
-	"$bumpmap" "models/reizer_models/star_wars/mandalorian/shared/body_nm"
-	"$model" "1"
-	"$halflambert" "1"
-	"$nocull" "1"
-}
