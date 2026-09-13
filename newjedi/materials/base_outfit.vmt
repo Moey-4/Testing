@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$baseTexture "models/jedi/amerilia/base_outfit"
+                $nocull 1
+	$surfaceprop flash
+	$halflambert 1
+}

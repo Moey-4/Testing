@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$baseTexture "models/jedi/amerilia/female_head"
+	$surfaceprop flash
+	$halflambert 1
+}
