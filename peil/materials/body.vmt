@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+    "$basetexture" "donkey/mat/body"
+    "$surfaceprop" "flesh"
+}
