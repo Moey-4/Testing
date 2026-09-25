@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/tfa/sw/padme/head_d"
+	$bumpmap "models/tfa/sw/padme/head_n"
+	$phongexponenttexture "models/tfa/sw/padme/fexp"
+	
+	$phong "1"
+	$phongexponent "6"
+	$phongboost "1"
+	$phongfresnelranges "[0.25 0.65 1.0]"
+	$phongalbedotint "0"
+}

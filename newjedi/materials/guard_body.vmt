@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	$baseTexture "models/jedi/amerilia/guard_body"
-                $bumpmap "models/jedi/shared/none"
-	$surfaceprop flash
-	$halflambert 1
-}
